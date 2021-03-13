@@ -1,9 +1,10 @@
 <h1 align="center">Welcome to PHP practice 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.1-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.1-blue.svg?cacheSeconds=2592000" />
 </p>
 
 > This is only for individual testing of php
+> + Image Omikuji is added on on Mar 13th, 21.
 
 ## Author
 
